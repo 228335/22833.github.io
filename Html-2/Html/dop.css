@@ -1,0 +1,202 @@
+.head {
+    border-style: solid;
+    border-radius: 40px;
+    border-width: 7px;
+}
+
+.name {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #111111;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.colorInfoName {
+    border-color: #FA4DFF;
+}
+
+.colorInfo {
+    border-color: #f94dff80;
+}
+
+.colorModName {
+    border-color: #FF6600;
+}
+
+.colorMod {
+    border-color: #ff660080
+}
+
+.colorGalName {
+    border-color: #00ff4c;
+}
+
+.colorGal {
+    border-color: #00ff4c80;
+}
+
+.colorRati {
+    border-color: #ffff0080
+}
+
+.colorRatiName {
+    border-color: #FFFF00;
+}
+
+.colorBetaName {
+    border-color: #004DFF;
+}
+
+.colorBeta {
+    border-color: #004cff80;
+}
+
+.head {
+    background-color: #111111;
+    font-size: 3em;
+    border-radius: 15px;
+}
+
+.spisok li {
+    background-color: #111111;
+    margin: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    padding: 50px;
+    border-color: #f94dff86;
+    list-style-type: none;
+}
+
+.container {
+    background-color: #171A41;
+    color: #ffffff;
+    font-family: 'Bitter', serif;
+}
+
+#InfofinalHr {
+    color: #f700ff;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.infoBlock hr {
+    color: #FA4DFF;
+    height: 4px;
+    border-radius: 15px;
+}
+
+.pills {
+    padding: 30px;
+    background-color: #111111;
+    margin: 20px;
+    font-size: 2em;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.tabe-content {
+    padding: 30px;
+    background-color: #111111;
+    margin: 20px;
+    font-size: 1em;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #ff660080
+}
+
+#ModfinalHr {
+    color: #FF6600;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.modeBlock hr {
+    color: #FF6600;
+    height: 4px;
+    border-radius: 15px;
+}
+
+#GalFinalHr {
+    color: #00ff4c;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#RatiFinalHr {
+    color: #FFFF00;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.nav-link {
+    color: #ffff;
+}
+
+.rati {
+    background-color: #ffff0080;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.beta {
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.r {
+    border-radius: 20px;
+}
+
+.f {
+    background-color: #5656F5;
+    padding-left: 45px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.footer {
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    width: 150%;
+}
+
+.right {
+    float: right
+}
+
+.modeBlock img {
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.s {
+    color: #ffffff;
+    margin: 15px;
+}
+
+#GET-name {
+    font-size: 2em;
+    border-radius: 15px;
+    border: solid;
+    height: 75%;
+    border-color: #004cff80;
+    margin: 20px;
+}
+
+#input {
+    width: auto;
+    height: auto;
+    color: #fff;
+}
+
+.circle {
+    border-radius: 53%;
+}
+
+.right {
+    right: auto;
+}
